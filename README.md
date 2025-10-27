@@ -16,6 +16,9 @@
 ## Hatcher Algebraic Topology
 <img width=500 align="center" src="./hatcher.png">
 
+## Structures and Interpretations of Computer Programs
+<img width=500 align="center" src="./SICP.png">
+
 # Miscellaneous
 
 ## Agda/Haskell Logos
