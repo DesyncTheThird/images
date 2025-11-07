@@ -27,4 +27,4 @@
 <img width=500 align="center" src="./haskell-agda.png">
 
 ## HoTT uwu
-<img width=500 align="center" src="./hott-uwu.png">
+<img width=500 align="center" src="./hott-uwu.svg">
