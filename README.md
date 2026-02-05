@@ -35,3 +35,8 @@ Some redraws of a picture I had of Patchy holding LYAH.
 <img width=500 align="center" src="./hott-uwu.svg">
 
 Inspired by [Sawaratsuki](https://github.com/SAWARATSUKI/KawaiiLogos/).
+
+## Agda uwu
+<img width=500 align="center" src="./agda-uwu.png">
+
+(WIP: layout sketch)
