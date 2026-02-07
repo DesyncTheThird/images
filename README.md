@@ -25,17 +25,26 @@ Some redraws of a picture I had of Patchy holding LYAH.
 
 
 
-# Miscellaneous
-
-## Agda/Haskell Logos
-<img width=500 align="center" src="./agda-haskell.png">
-<img width=500 align="center" src="./haskell-agda.png">
+# Logos
+See [here](https://github.com/DesyncTheThird/KawaiiLogos) for more details.
 
 ## HoTT uwu
 <img width=500 align="center" src="./hott-uwu.svg">
 
-Inspired by [Sawaratsuki](https://github.com/SAWARATSUKI/KawaiiLogos/).
-
 ## Agda uwu
 <img width=500 align="center" src="./agda-uwu.svg">
 
+
+
+# OLED Art
+See [here](https://github.com/DesyncTheThird/OLED-art) for more details.
+
+<img src="https://raw.githubusercontent.com/DesyncTheThird/corne-keymap/refs/heads/main/images/waves.png" width="180"> <img src="https://raw.githubusercontent.com/DesyncTheThird/corne-keymap/refs/heads/main/images/four-byte-burger.png" width="180"> <img src="https://raw.githubusercontent.com/DesyncTheThird/corne-keymap/refs/heads/main/images/pro_micro.png" width="180">
+
+
+
+# Misc
+
+## Agda/Haskell Logos
+<img width=500 align="center" src="./agda-haskell.png">
+<img width=500 align="center" src="./haskell-agda.png">
