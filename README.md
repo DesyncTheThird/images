@@ -29,10 +29,10 @@ Some redraws of a picture I had of Patchy holding LYAH.
 See [here](https://github.com/DesyncTheThird/KawaiiLogos) for more details.
 
 ## HoTT uwu
-<img width=500 align="center" src="./hott-uwu.svg">
+<img width=500 align="center" src="https://raw.githubusercontent.com/DesyncTheThird/KawaiiLogos/refs/heads/main/hott/hott.svg">
 
 ## Agda uwu
-<img width=500 align="center" src="./agda-uwu.svg">
+<img width=500 align="center" src="https://raw.githubusercontent.com/DesyncTheThird/KawaiiLogos/refs/heads/main/agda/agda.svg">
 
 
 
