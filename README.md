@@ -48,3 +48,11 @@ See [here](https://github.com/DesyncTheThird/OLED-art) for more details.
 ## Agda/Haskell Logos
 <img width=500 align="center" src="./agda-haskell.png">
 <img width=500 align="center" src="./haskell-agda.png">
+
+## Goonlang logo
+
+By popular and repeated requests by friends:
+
+<img width=500 align="center" src="./goonlang.png">
+
+please never ask me to draw this again.
