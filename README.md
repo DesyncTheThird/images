@@ -23,8 +23,8 @@ Some redraws of a picture I had of Patchy holding LYAH.
 
 
 
-# Logos
-See [here](https://github.com/DesyncTheThird/KawaiiLogos) for more details.
+# Kawaii Logos
+See [here](https://github.com/DesyncTheThird/KawaiiLogos) for more logos and details.
 
 ## HoTT uwu
 <img width=500 align="center" src="https://raw.githubusercontent.com/DesyncTheThird/KawaiiLogos/refs/heads/main/hott/hott.svg">
