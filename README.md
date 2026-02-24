@@ -6,8 +6,6 @@ Some redraws of a picture I had of Patchy holding LYAH.
 ## Learn You a Haskell
 <img width=500 align="center" src="./learn you a haskell.png">
 
-[Haskell background logo by Sawaratsuki](https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/Haskell/haskell.png).
-
 ## The Rising Sea
 <img width=500 align="center" src="./the rising sea.png">
 
